@@ -193,6 +193,3 @@ Feedstock Maintainers
 
 * [@mkrack](https://github.com/mkrack/)
 
-
-<!-- dummy commit to enable rerendering -->
-
